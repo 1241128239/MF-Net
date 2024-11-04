@@ -1,7 +1,3 @@
-"""
-
-Author: Honggu Liu
-"""
 from torchvision import transforms
 
 mesonet_data_transforms = {
